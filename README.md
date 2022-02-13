@@ -29,6 +29,7 @@ Il s’agit de créer une application qui gère une liste de tâches a effectuer
 	- Optimisation du code,
 	- Création d'un menu grace au clic droit de la souris,
 	- Amélioration du graphisme d'affichage
+	- Correction de bug
 
 ## User Story:
  - [x] Un utilisateur peut ajouter / Supprimer une tache
