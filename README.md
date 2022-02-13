@@ -44,7 +44,7 @@ L'uml et le Wireframe est visible grace au lien :
 
 ## Executable
 
-Dans le Dossier Executable, retrouvez un fichier MyTask.exe qui vous permettra d'installer l'application sur un ordinateur windows.
+Dans ce Dossier ,  vous trouverez un fichier setup.exe qui vous permettra d'installer l'application sur un ordinateur windows.
 
 ## Screen Application
 
